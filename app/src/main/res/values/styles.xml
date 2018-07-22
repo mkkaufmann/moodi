@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="generalnotitle" parent="Theme.AppCompat">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
